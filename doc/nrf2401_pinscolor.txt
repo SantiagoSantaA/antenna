@@ -1,0 +1,11 @@
+<------- NRF24L01 PINES ----->
+
+|    NRF24l01	|     Color	|	RPPico	|
+|	IRQ	|     Morado	|		|
+|	MOSI	|     Gris	|		|
+|	CSN	|     Blanco	|		|
+|	VCC	|     Negro	|		|
+|	MISO	|     Naranja	|		|
+|	SCK	|     Amarillo	|		|
+|	CE	|     Verde	|		|
+|	GND	|     Azul	|		|
