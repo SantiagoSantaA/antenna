@@ -2,10 +2,10 @@
 
 |    NRF24l01	|     Color	|	RPPico	|
 |	IRQ	|     Morado	|		|
-|	MOSI	|     Gris	|		|
-|	CSN	|     Blanco	|		|
+|	MOSI	|     Gris	|	GPIO3	|
+|	CSN	|     Blanco	|	GPIO5	|
 |	VCC	|     Negro	|		|
-|	MISO	|     Naranja	|		|
-|	SCK	|     Amarillo	|		|
-|	CE	|     Verde	|		|
-|	GND	|     Azul	|		|
+|	MISO	|     Naranja	|	GPIO4	|
+|	SCK	|     Amarillo	|	GPIO2	|
+|	CE	|     Verde	|	GPIO6	|
+|	GND	|     Azul	|	GND	|
